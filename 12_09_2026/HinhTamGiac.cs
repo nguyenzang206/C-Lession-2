@@ -1,3 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ExampleCAdvance.Hinh
+{
+    public interface IHinh
+    {
+        void Print();
+
+        double getDienTich();
+
+        double getChuVi();
+
+        void nhapThongTin();
+    }
+}
+
 public class HinhTamGiac : IHinh
 {
     private double a;
