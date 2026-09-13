@@ -58,7 +58,6 @@ public class HinhTamGiac : IHinh
         }
     }
 
-    // Constructor
     public HinhTamGiac()
     {
         A = 3;
@@ -76,7 +75,6 @@ public class HinhTamGiac : IHinh
             throw new ArgumentException("Ba cạnh không tạo thành tam giác!");
     }
 
-    // Kiểm tra 3 cạnh có tạo thành tam giác không
     public bool IsTamGiac()
     {
         return A + B > C &&
