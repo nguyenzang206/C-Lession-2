@@ -32,7 +32,6 @@ public class HinhTron : IHinh
         }
     }
 
-    // Constructor
     public HinhTron()
     {
         BanKinh = 1;
