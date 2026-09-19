@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\source\\repos\\thinghiem\\thinghiem.slnx",
+    "projects": [
+      "thinghiem\\QuanLySinhVien.csproj"
+    ]
+  }
+}
