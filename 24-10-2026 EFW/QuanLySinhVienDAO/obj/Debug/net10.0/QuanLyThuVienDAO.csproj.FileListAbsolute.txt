@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\QuanLyThuVienDAO.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\QuanLyThuVienDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\QuanLyThuVienDAO.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\QuanLyThuVienDAO.AssemblyInfo.cs
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\QuanLyThuVienDAO.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\bin\Debug\net10.0\appsettings.json
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\bin\Debug\net10.0\QuanLyThuVienDAO.deps.json
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\bin\Debug\net10.0\QuanLyThuVienDAO.runtimeconfig.json
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\bin\Debug\net10.0\QuanLyThuVienDAO.dll
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\bin\Debug\net10.0\QuanLyThuVienDAO.pdb
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\QuanLyThuVienDAO.dll
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\refint\QuanLyThuVienDAO.dll
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\QuanLyThuVienDAO.pdb
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\QuanLyThuVienDAO.genruntimeconfig.cache
+C:\Users\ACER\source\repos\QuanLySinhVienDAO\QuanLySinhVienDAO\obj\Debug\net10.0\ref\QuanLyThuVienDAO.dll
